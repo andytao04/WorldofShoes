@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">World of Shoes</string>
+    <string name="jordan">Nike Air Jordan</string>
+    <string name="runner">Nike Light Runner</string>
+</resources>
