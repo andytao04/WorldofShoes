@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                 intentNewAct.putExtra("ShoeModelNo", "A1235");
                 intentNewAct.putExtra("Price", 66.8);
                 intentNewAct.putExtra("Address", "20 Yishun St");
-                intentNewAct.putExtra("PhoneNumber", 67891234);
+                intentNewAct.putExtra("PhoneNumber", 67892345);
 
                 startActivity(intentNewAct);
             }
